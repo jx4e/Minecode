@@ -1,4 +1,4 @@
-# Minecode (NEA Project 2022-2023)
+# Minecode (ALevel Computer Science NEA Project 2022-2023)
 
 ![minecode](https://drive.google.com/uc?export=download&id=1pt_3Qj4GqRYRKvQe7vjWYU3Bo8-P4fHq)
 
